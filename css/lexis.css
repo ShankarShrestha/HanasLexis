@@ -1,0 +1,136 @@
+.wrapper {
+	background-color: #f8f9fa;
+	width: 100%;
+}
+
+#topBar {
+	box-shadow: 1px 2px 5px #888888;
+	height: 100px;
+	position: relative;
+}
+.heightFix {
+	height: inherit;
+}
+
+.hero {
+  width: 100%;
+  background-image: url("../img/main.jpg");
+  background-color: #cccccc;
+  height: 525px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 50px 0;
+  
+}
+.heroContent {
+	color: #fff;
+	text-align: center;
+	padding: 75px 0;
+}
+.userInfo {
+	height: -moz-available; /*Mo*/
+	height: -webkit-fill-available;
+	height: fill-available;
+	background-color: #00000047;
+	border-radius: 0 0 7px 7px;
+	
+}
+/*.nav-tabs {
+	text-align: center;
+}
+
+.nav-link {
+	width: 50%;
+	color: #fff;
+	border-top-left-radius: 0px;
+}
+
+.nav-link .active {
+	background-color: #0077fc;
+	width: 50%;
+}
+*/
+
+
+.serviceInner{
+	padding: 60px 12%;
+	text-align: center;
+	color: #fff;
+}
+#serviceLeft {
+	background-color: #43b9f6;
+}
+#serviceMiddle {
+	background-color: #6686ff;
+}
+#serviceRight {
+	background-color: #be78ff;
+}
+
+.proBg {
+	font-size: 240px;
+	position: absolute;
+	right: -80px;
+	top: 10%;
+	color: rgba(255, 255, 255, 0.1);
+
+
+}
+
+#infoImgFist {
+	background-image: url("../img/bg-showcase-1.jpg");
+}
+#infoImgSecond {
+	background-image: url("../img/bg-showcase-2.jpg");
+}
+
+.infoInner {
+  width: 100%;
+  background-color: #cccccc;
+  min-height: 450px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.innerContent {
+	text-align: center;
+	padding: 110px 50px;
+}
+
+.product {
+ background-image: url("../img/product.jpg");
+  min-height: 430px;
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.opacBackground {
+  background: rgba(0, 0, 0, 0.4);
+  
+  
+}
+.productText {
+	padding: 100px 0;
+	color: #fff;
+}
+
+/*Test class*/
+
+#mainNav {
+	max-height: 70px;
+	background-color: transparent;
+	color: #322d21;
+}
+
+.red {
+	background-color: red;
+}
+
+.green {
+	background-color: green;
+}
+
+.blue {
+	background-color: blue;
+}

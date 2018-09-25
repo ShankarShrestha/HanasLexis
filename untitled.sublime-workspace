@@ -1,0 +1,523 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rgb",
+				"rgba()\tcolor"
+			],
+			[
+				"hei",
+				"height\tproperty"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"cont",
+				"container"
+			],
+			[
+				"heigh",
+				"max-height\tproperty"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"count",
+				"country"
+			],
+			[
+				"pr",
+				"price"
+			],
+			[
+				"coffee",
+				"coffeeEntities"
+			],
+			[
+				"functi",
+				"function"
+			],
+			[
+				"data",
+				"database"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"create",
+				"createOptionValues"
+			],
+			[
+				"value",
+				"valueArray"
+			],
+			[
+				"coff",
+				"coffeeArray"
+			],
+			[
+				"array",
+				"array_push"
+			],
+			[
+				"my",
+				"mysql_error"
+			],
+			[
+				"mysql_",
+				"mysql_select_db"
+			],
+			[
+				"mysql",
+				"mysql_error"
+			],
+			[
+				"mys",
+				"mysql_connect"
+			],
+			[
+				"coun",
+				"country"
+			],
+			[
+				"function",
+				"create_function"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ag",
+				"age"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"nu",
+				"number"
+			],
+			[
+				"array_s",
+				"array_shift"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"array_p",
+				"array_pop"
+			],
+			[
+				"sha",
+				"shankar"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 7564,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/shankar/Downloads/hanaslexis-ui/landing/landing.html",
+			"settings":
+			{
+				"buffer_size": 7085,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/lexis.css",
+			"settings":
+			{
+				"buffer_size": 1997,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/System/Library/Frameworks/Kernel.framework/Versions/A/Headers/sys/vm.h",
+		"/Users/shankar/Downloads/hanaslexis-ui/landing/css/landing-page.css",
+		"/Users/shankar/Downloads/BinaryTrees (1).py",
+		"/Volumes/DISK_IMG/RedSpare/crm/pages/login.html",
+		"/Volumes/DISK_IMG/RedSpare/crm/pages/index.html",
+		"/Volumes/DISK_IMG/RedSpare/index.html",
+		"/Users/shankar/Downloads/PositionalLists (2).py",
+		"/Users/shankar/Desktop/ShresthaShankarMIPS3.s",
+		"/Users/shankar/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/EB3C4E9E-1E03-4A84-BD9D-1ED21CC443CA/ShresthaShankarMIPS3.s",
+		"/Users/shankar/Documents/Spring2018/IT310/Class/Django/wisdompets/wisdompets/settings.py",
+		"/Users/shankar/Downloads/DynamicArrays (1).py",
+		"/Users/shankar/Documents/Spring2018/IT310/Class/Homework6/R62.py",
+		"/Users/shankar/Documents/Spring2018/IT310/Class/Homework7/R77.py",
+		"/Users/shankar/Desktop/RedSpare/crm/pages/index.html",
+		"/Users/shankar/Desktop/RedSpare/css/style.css",
+		"/Users/shankar/Desktop/RedSpare/index.html",
+		"/Users/shankar/Desktop/test1.s",
+		"/Users/shankar/Downloads/PA1.asm",
+		"/Users/shankar/Downloads/Stacks.py",
+		"/Volumes/DISK_IMG/shankarShrestha1.s",
+		"/Users/shankar/Downloads/DynamicArrays.py",
+		"/Volumes/DISK_IMG/# Bibek Amatya",
+		"/Volumes/DISK_IMG/shankarShrestha.s",
+		"/Users/shankar/Downloads/AmortizedAnalysis.py",
+		"/Volumes/DISK_IMG/BibekAmatya.asm",
+		"/Volumes/DISK_IMG/file.s",
+		"/Users/shankar/Downloads/Second Edition Test Programs/Chapter2/montePi.py",
+		"/Users/shankar/Downloads/Code_1_12.py",
+		"/Volumes/DISK_IMG/GroupOne/index.html",
+		"/Users/shankar/Downloads/EnglishRuler.py",
+		"/Users/shankar/Downloads/AsymptoticAnalysis.py",
+		"/Users/shankar/Desktop/aa.html",
+		"/Users/shankar/Downloads/Analysis.py",
+		"/Users/shankar/Documents/code4SocialGood/c4sg-web/docs/fontend-development.md",
+		"/Users/shankar/Documents/code4SocialGood/c4sg-web/docs/setup.md",
+		"/Users/shankar/Documents/code4SocialGood/c4sg-web/src/index.html",
+		"/Users/shankar/Documents/IT210/secondchapter/turtlepractice2.py",
+		"/Users/shankar/Documents/IT210/secondchapter/turtlepractice.py",
+		"/Users/shankar/anaconda/lib/python3.6/turtle.py",
+		"/Users/shankar/Documents/IT210/python 210/Bear-Fish-Plant/bearfishplantsimulation.py",
+		"/Users/shankar/Documents/IT210/python 210/exam8/question2.py",
+		"/Users/shankar/Documents/IT210/secondchapter/question5.py",
+		"/Users/shankar/Documents/Fall2017/IT214/src/InputArray.java",
+		"/Users/shankar/Desktop/website/index.html",
+		"/Users/shankar/Desktop/website/css/style.css",
+		"/Users/shankar/Desktop/website/css/reset.css",
+		"/Users/shankar/Desktop/123/style.css",
+		"/Users/shankar/Desktop/123/index.html",
+		"/Users/shankar/Downloads/Stable Marriage/src/stablemarriage/StableMarriage_001.java",
+		"/Users/shankar/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/99B0D6BD-EC2D-4B06-9E9E-0A84E7A31170/Stable Marriage/src/stablemarriage/StableMarriage_001.java",
+		"/Applications/XAMPP/xamppfiles/include/proftpd/cmd.h",
+		"/Users/shankar/Downloads/Fill.signed/Fill.java",
+		"/Users/shankar/Downloads/Exponential.java",
+		"/Users/shankar/Downloads/NumberGradeToLetter.java",
+		"/Users/shankar/Desktop/untitled folder/Exponential.java",
+		"/Users/shankar/Desktop/untitled folder/MathCalculation.java",
+		"/Users/shankar/Desktop/untitled folder/GradeCalculation.java",
+		"/Users/shankar/Downloads/Grades (1).java",
+		"/Users/shankar/Downloads/Grades.java",
+		"/Applications/XAMPP/xamppfiles/htdocs/nepzeal/css/foundation.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/nepzeal/css/app.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/nepzeal/index.html",
+		"/Users/shankar/Downloads/foundation-6.4.1-custom/css/foundation.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/phpWebShop/info.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/phpWebShop/module/coffeemodel.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/phpWebShop/module/crenditials.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/phpWebShop/entities/coffeeEntities.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/phpWebShop/css/myStyle.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/phpWebShop/controller/coffeeControler.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/phpWebShop/template.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/phpWebShop/coffee.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/phplesson/oop.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/phpWebShop/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/phpWebShop/info1.php",
+		"/Users/shankar/Downloads/coffeedb.sql",
+		"/Applications/XAMPP/xamppfiles/htdocs/phplesson/first.php"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"product",
+			"mainNav",
+			"Simple-Line-Icons"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7564,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6503,
+								6503
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2027.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/shankar/Downloads/hanaslexis-ui/landing/landing.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7085,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								512,
+								421
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 338.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/lexis.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1997,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1620,
+								1620
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1288.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
